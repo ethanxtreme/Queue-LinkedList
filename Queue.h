@@ -54,7 +54,8 @@ private:
 
     Node* head;
     Node* tail;
-
+    int numElems;
+    int max;
 };
 
 #include "Queue.cpp"
